@@ -10,10 +10,10 @@ from PIL import Image, ImageTk
 from contact import Contact
 from user import User
 
-db_host='database-violetsassignment.cwiyapmmjmbk.ap-southeast-2.rds.amazonaws.com'
+db_host=''
 db_port=3306
 db_user='admin'
-db_password='qazxswedc'
+db_password=''
 db_database='db_python'
 
 key_path = 'key.bin'
